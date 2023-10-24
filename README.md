@@ -1,6 +1,6 @@
 # Classic Tetris in Python
 
-![screenshot](https://github.com/federicozapponetetris/blob/main/gui.png?raw=true)
+![screenshot](https://github.com/federicozappone/tetris/blob/main/gui.png?raw=true)
 
 ```bash
 pip install -r requirements.txt
